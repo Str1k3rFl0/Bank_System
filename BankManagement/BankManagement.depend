@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1705696111 source:d:\programming projects\bankmanagement\main.cpp
+	"Menu.h"
+
+1706009922 source:d:\programming projects\bankmanagement\src\menu.cpp
+	"Menu.h"
+
+1706003947 d:\programming projects\bankmanagement\include\menu.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<ctime>
+	"Converter.h"
+	"Account.h"
+
+1705698138 source:d:\programming projects\bankmanagement\src\converter.cpp
+	"Converter.h"
+
+1705697662 d:\programming projects\bankmanagement\include\converter.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1706010038 source:d:\programming projects\bankmanagement\src\account.cpp
+	"Account.h"
+
+1706009420 d:\programming projects\bankmanagement\include\account.h
+	<windows.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<conio.h>
+	<chrono>
+	<string>
+	<random>
+
